@@ -107,8 +107,8 @@ Resposta:
 
 Clone o repositório:
 
-git clone https://github.com/seuusuario/first-spring-app.git
-cd first-spring-app
+git clone https://github.com/daniel-dealmeida-dev/Java-Spring-boot
+cd Java-Spring-boot
 
 
 Configure o MySQL no application.properties:
